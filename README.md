@@ -576,7 +576,7 @@ public class Department
 
 * كل Record في الجدول الأول يرتبط بعدة Records من الجدول الثاني والعكس.
 
-### مثال مباشر (EF Core الحديثة):
+### مثال مباشر (EF Core ):
 
 ```csharp
 modelBuilder.Entity<Student>()
